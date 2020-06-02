@@ -19,7 +19,7 @@
      $miFechaArr["mes"]="Mayo";
      $miFechaArr["año"]="2020";
 
-     echo "<br><br>"
+     echo "<br><br>";
      
      var_dump ($miFechaArr);
 
