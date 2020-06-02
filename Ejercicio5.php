@@ -23,7 +23,13 @@ for ($i=0; $i <=sizeof($familia) ; $i++) {
     echo "<h2> $familia[$i] numero de elementos $i </h2>";
 echo "<br>";
 }
+$i = 0;
 
+while ($i <= 10) {
+echo "<h2> $familia[$i] numero de elementos $i </h2>";
+$i++;
+echo "<br>";
+}
     ?>
 </body>
 </html>
