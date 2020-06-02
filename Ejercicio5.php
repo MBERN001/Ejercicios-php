@@ -7,12 +7,12 @@
 
 header ("Content-type: text/html;charset=\"utf-8\"");
   
-for ($i=0; $i <=10 ; $i++) { 
+for ($i=1; $i <=10 ; $i++) { 
  echo  "<p> $i</p>";
 }
 echo "<p>Finaliza ciclo for </p>";
 
-for ($i=1; $i >=0 ; $i--) { 
+for ($i=10; $i>=0 ; $i--) { 
     echo  "<p> $i</p>";
    }
    echo "<p>Finaliza ciclo for </p>";
