@@ -24,12 +24,6 @@ for ($i=0; $i <=sizeof($familia) ; $i++) {
 echo "<br>";
 }
 
-while ($i sizeof($familia) <= 10) {
-    echo "<h2> $familia[$i] numero de elementos $i </h2>";
-    $i++;
-echo "<br>";
-}
-
     ?>
 </body>
 </html>
