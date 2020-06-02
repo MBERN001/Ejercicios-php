@@ -15,8 +15,8 @@
     echo "</html";
     
     $numero = 50;
-    $calculo = $numero / 2+6;
-    echo "El resultado de la operacion es: $calculo";
+    $calculo = $numero / 2 + 6;
+    echo "<p>El resultado de la operacion es: $calculo</p>";
 
     $logico = true;
     $logico2 = false;
